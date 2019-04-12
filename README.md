@@ -13,4 +13,4 @@ For run script you may pass two arguments - email and password from i.ua account
 
 Example running:
 
-```python3.5 send_message.py test@i.ua testPassword```
+```python send_message.py test@i.ua testPassword```
